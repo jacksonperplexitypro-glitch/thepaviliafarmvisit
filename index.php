@@ -1,5 +1,13 @@
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-17987421038"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'AW-17987421038');
+</script>
  
  
 <meta name="description" content="全新港鐵大圍站上蓋大型住宅項目 — 新世界crossover港鐵，匠心築造地標豪宅 雙鐵交匯、城門河景、65萬呎商場！ The Pavilia Farm 柏傲莊 III，550間 馬年賀歲登場 65 萬呎商場「圍方 The Wai」 大圍站上蓋 ‧ 交通樞紐。">
