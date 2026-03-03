@@ -18,7 +18,7 @@
 
         <!-- Required OG Tags for correct display -->
     <meta property="og:title" content="柏傲莊 III | The Pavilia Farm">
-    <meta property="og:url" content="http://thepaviliafarmhk.com?">
+    <meta property="og:url" content="http://thepaviliafarmhk.com">
     <meta property="og:type" content="website">
 
 <script type="text/javascript">
