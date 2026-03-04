@@ -55,10 +55,10 @@ In your html page, add the snippet and call gtag_report_conversion when someone 
             <i class="fas fa-phone"></i>
             <span>9408 5969</span>
         </a>
-        <button onclick="openWhatsApp()">
+        <a class="contact-btn whatsapp-btn" onclick="openWhatsApp()">
             <i class="fab fa-whatsapp"></i>
             <span>WhatsApp</span>
-        </button>
+        </a>
     </div>
 
     <!-- Header -->
