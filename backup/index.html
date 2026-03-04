@@ -1,0 +1,9 @@
+<script type="text/javascript">
+    // 立即偵測並跳轉
+    if (/Android|iPhone|iPad|iPod/i.test(navigator.userAgent)) {
+        // 使用 location.replace 確保用戶點擊「後退」時不會回到 Web 版觸發無限跳轉
+        window.location.replace("./app/home.html");
+    }else{
+	 window.location.replace("./web/home.html");
+	}
+</script>

@@ -1,50 +1,282 @@
+<!DOCTYPE html>
+<html lang="zh-HK">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>柏傲莊 The Pavilia Farm - 匠心築造地標豪宅</title>
+    <meta name="description" content="柏傲莊 III｜550間 馬年賀歲登場。匠心築造地標豪宅，融合現代建築美學與自然生活哲學，打造香港頂級住宅新標準。">
+    
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;500;600;700&family=Noto+Serif+SC:wght@400;500;600;700&display=swap" rel="stylesheet">
+    
+    <!-- Font Awesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Fixed Contact Buttons -->
+    <div class="fixed-contact">
+        <a href="tel:94085969" class="contact-btn phone-btn">
+            <i class="fas fa-phone"></i>
+            <span>9408 5969</span>
+        </a>
+          <a target="_blank"  href="https://api.whatsapp.com/send?phone=85294085969&amp;text=%E4%BD%A0%E5%A5%BD%EF%BC%81%E6%88%91%E6%98%AFxxx%E5%85%88%E7%94%9F/%E5%B0%8F%E5%A7%90%EF%BC%81%E6%88%91%E6%83%B3%E5%84%AA%E5%85%88%E7%99%BB%E8%A8%98%E7%B4%A2%E5%8F%96%E3%80%8C%E6%9F%8F%E5%82%B2%E8%8E%8A%20The%20Pavilia%20Farm%E3%80%8D%20%E5%94%AE%E6%A8%93%E6%9B%B8%EF%BC%81" target="_blank" class="contact-btn whatsapp-btn">
+            <i class="fab fa-whatsapp"></i>
+            <span>WhatsApp</span>
+        </a>
+    </div>
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=AW-17987421038"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+    <!-- Header -->
+    <header class="header" id="header">
+        <div class="container">
+            <div class="nav-brand">
+                <h1 class="brand-title">The Pavilia Farm</h1>
+                <p class="brand-subtitle">柏傲莊</p>
+            </div>
+            
+            <nav class="nav-menu" id="navMenu">
+                <a href="#hero" class="nav-link">首頁</a>
+                   <a href="#gallery" class="nav-link">項目展示</a>
+                <a href="#brochure" class="nav-link">售樓說明書</a>
+                <a href="#pricelist" class="nav-link">價單</a>
+     
+              
+                <a href="#contact" class="nav-link">聯繫我們</a>
+            </nav>
+            
+            <div class="nav-actions">
+                <button class="mobile-menu-toggle" id="mobileMenuToggle">
+                   <!--- <i class="fas fa-bars"></i>-->
+                </button>
+            </div>
+        </div>
+    </header>
 
-  gtag('config', 'AW-17987421038');
-</script>
- <!-- Event snippet for 網頁瀏覽 conversion page
-In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. -->
-<script>
-function gtag_report_conversion(url) {
-  var callback = function () {
-    if (typeof(url) != 'undefined') {
-      window.location = url;
-    }
-  };
-  gtag('event', 'conversion', {
-      'send_to': 'AW-17987421038/0VwHCJaTiYIcEO6GiYFD',
-      'value': 1.0,
-      'currency': 'HKD',
-      'event_callback': callback
-  });
-  return false;
-}
-</script>
+    <!-- Main Content -->
+    <main>
 
- 
-<meta name="description" content="全新港鐵大圍站上蓋大型住宅項目 — 新世界crossover港鐵，匠心築造地標豪宅 雙鐵交匯、城門河景、65萬呎商場！ The Pavilia Farm 柏傲莊 III，550間 馬年賀歲登場 65 萬呎商場「圍方 The Wai」 大圍站上蓋 ‧ 交通樞紐。">
-    <meta property="og:description" content="全新港鐵大圍站上蓋大型住宅項目 — 新世界crossover港鐵，匠心築造地標豪宅 雙鐵交匯、城門河景、65萬呎商場！ The Pavilia Farm 柏傲莊 III，550間 馬年賀歲登場 65 萬呎商場「圍方 The Wai」 大圍站上蓋 ‧ 交通樞紐。">
+        
+        <!-- Hero Section -->
+        <section id="hero" class="hero">
+            <div class="hero-background">
+                <img src="images/hero-bg.png" alt="柏傲莊室內設計" class="hero-image">
+                <div class="hero-overlay"></div>
+            </div>
+            
+            <div class="container hero-content">
+                <div class="hero-text">
+                    <h1 class="hero-title">The Pavilia Farm</h1>
+                    <h2 class="hero-chinese">柏傲莊</h2>
+                    <p class="hero-subtitle">The Pavilia Farm III • 柏傲莊 III</p>
+                    <p class="hero-description">柏傲莊 III｜550間 馬年賀歲登場 <br><br>匠心築造地標豪宅，融合現代建築美學與自然生活哲學，打造香港頂級住宅新標準。</p>
+                    
+                    <div class="hero-actions">
+                        <button class="btn btn-large btn-primary"  >
+                              <a target="_blank"  href="https://api.whatsapp.com/send?phone=85294085969&amp;text=%E4%BD%A0%E5%A5%BD%EF%BC%81%E6%88%91%E6%98%AFxxx%E5%85%88%E7%94%9F/%E5%B0%8F%E5%A7%90%EF%BC%81%E6%88%91%E6%83%B3%E5%84%AA%E5%85%88%E7%99%BB%E8%A8%98%E7%B4%A2%E5%8F%96%E3%80%8C%E6%9F%8F%E5%82%B2%E8%8E%8A%20The%20Pavilia%20Farm%E3%80%8D%20%E5%94%AE%E6%A8%93%E6%9B%B8%EF%BC%81"> 
+                            查詢詳情</a>
+                        </button>
+                        <button class="btn btn-large btn-outline"   >
+                              <a target="_blank"  href="https://api.whatsapp.com/send?phone=85294085969&amp;text=%E4%BD%A0%E5%A5%BD%EF%BC%81%E6%88%91%E6%98%AFxxx%E5%85%88%E7%94%9F/%E5%B0%8F%E5%A7%90%EF%BC%81%E6%88%91%E6%83%B3%E5%84%AA%E5%85%88%E7%99%BB%E8%A8%98%E7%B4%A2%E5%8F%96%E3%80%8C%E6%9F%8F%E5%82%B2%E8%8E%8A%20The%20Pavilia%20Farm%E3%80%8D%20%E5%94%AE%E6%A8%93%E6%9B%B8%EF%BC%81"> 
+                            預約參觀
+                            </a>
 
-        <meta property="og:image" content="./image/imageyo.jpg">
- 
+                        </button>
+                    </div>
+                </div>
+            </div>
+            
+            <button class="scroll-indicator" onclick="scrollToSection('brochure')">
+                <i class="fas fa-chevron-down"></i>
+            </button>
+        </section>
+<!-- Gallery Section -->
 
-        <!-- Required OG Tags for correct display -->
-    <meta property="og:title" content="柏傲莊 III | The Pavilia Farm">
-    <meta property="og:url" content="http://thepaviliafarmhk.com">
-    <meta property="og:type" content="website">
+   <section id="brochure" class="brochure">
+            <div class="container">
+                <div class="section-header">
+                    <h2 class="section-title"></h2>
+                    <p class="section-subtitle"></p>
+                </div>
+               
+                <div class="brochure-content">
+                    <div class="brochure-card">
+                      
+                        <div class="brochure-info">
+                            <h3 class="brochure-title"></h3>
+                            <p class="brochure-description">柏傲莊 位於新界 大圍車公廟路18號，於2022年9月開始落成，屋苑分為2期，由10座樓宇組成，共有2,198個單位。屋苑內設有會所、泳池、兒童設施、運動設施、娛樂設施、餐飲設施、美容/保健、休閒區、基座商場，交通便利，步行至港鐵時間約1分鐘。附近設有翠田街室外停車場；周邊民生設施完善，1分鐘到達圍方；5分鐘到達大圍遊樂場；區內亦設有Tesla 汽車充電站及聯邦動物診所。另外，小學校網在88區，中學校區在沙田。</p>
+                         
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section id="gallery" class="gallery">
+            <div class="container">
+                <div class="section-header">
+                    <h2 class="section-title">項目展示</h2>
+                    <p class="section-subtitle"></p>
+                </div>
+                
+                <div class="gallery-grid">
+                    <div class="gallery-item">
+                        <img src="images/1.jpg" alt="無邊際泳池" class="gallery-image">
+                        <div class="gallery-overlay">
+                            <h3 class="gallery-title"></h3>
+                            <p class="gallery-description"></p>
+                        </div>
+                    </div>
+                    
+                    <div class="gallery-item">
+                        <img src="images/2.png" alt="建築外觀" class="gallery-image">
+                        <div class="gallery-overlay">
+                            <h3 class="gallery-title"></h3>
+                            <p class="gallery-description"></p>
+                        </div>
+                    </div>
+                    
+                    <div class="gallery-item">
+                        <img src="images/3.jpg" alt="泳池設施" class="gallery-image">
+                        <div class="gallery-overlay">
+                            <h3 class="gallery-title"></h3>
+                            <p class="gallery-description"></p>
+                        </div>
+                    </div>
+                    
+                    <div class="gallery-item">
+                        <img src="images/4.jpg" alt="戶外泳池" class="gallery-image">
+                        <div class="gallery-overlay">
+                            <h3 class="gallery-title"></h3>
+                            <p class="gallery-description"></p>
+                        </div>
+                    </div>
+                    
+                    <div class="gallery-item">
+                        <img src="images/5.jpg" alt="泳池景觀" class="gallery-image">
+                        <div class="gallery-overlay">
+                            <h3 class="gallery-title"></h3>
+                            <p class="gallery-description"></p>
+                        </div>
+                    </div>
+                    
+                    <div class="gallery-item">
+                        <img src="images/6.png" alt="健身中心" class="gallery-image">
+                        <div class="gallery-overlay">
+                            <h3 class="gallery-title"></h3>
+                            <p class="gallery-description"></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
 
-<script type="text/javascript">
-    // 立即偵測並跳轉
-    if (/Android|iPhone|iPad|iPod/i.test(navigator.userAgent)) {
-        // 使用 location.replace 確保用戶點擊「後退」時不會回到 Web 版觸發無限跳轉
-        window.location.replace("./app/home.html");
-    }else{
-	 window.location.replace("./web/home.html");
-	}
-</script>
+        <!-- Brochure Section -->
+        <section id="brochure" class="brochure">
+            <div class="container">
+                <div class="section-header">
+                    <h2 class="section-title"></h2>
+                    <p class="section-subtitle"></p>
+                </div>
+               
+                <div class="brochure-content">
+                    <div class="brochure-card">
+                      
+                        <div class="brochure-info">
+                            <h3 class="brochure-title">柏傲莊售樓說明書</h3>
+                            <p class="brochure-description"></p>
+                            <button class="btn btn-large btn-primary" >
+                                  <a target="_blank"  href="./book.pdf"> 
+                                <i class="fas fa-download"></i>
+                                下載售樓說明書
+                                </a>
+
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Price List Section -->
+        <section id="pricelist" class="pricelist">
+            <div class="container">
+                <div class="section-header">
+                    <h2 class="section-title"></h2>
+                    <p class="section-subtitle"></p>
+                </div>
+                
+                <div class="pricelist-content">
+                    <div class="pricelist-card">
+                      
+                        <div class="pricelist-info">
+                            <h3 class="pricelist-title">最新價單</h3>
+                            <p class="pricelist-description">包含所有可售單位價格、面積、樓層分佈及多種付款計劃選擇</p>
+                            <button class="btn btn-large btn-primary" >
+                                    <a target="_blank"  href="./price.pdf"> 
+                                <i class="fas fa-eye"></i>
+                                查看最新價單
+                                    </a>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+       
+
+         
+        <!-- Contact Section -->
+        <section id="contact" class="contact">
+            <div class="container">
+                <div class="contact-card">
+                    <div class="section-header">
+                        <h2 class="section-title">聯繫我們</h2>
+                        <p class="section-subtitle">歡迎預約參觀或查詢詳情</p>
+                    </div>
+                    
+                    <div class="contact-whatsapp">
+                        <button class="btn btn-whatsapp-large" onclick="openWhatsApp()">
+                            <i class="fab fa-whatsapp"></i>
+                            <a target="_blank"  href="https://api.whatsapp.com/send?phone=85294085969&amp;text=%E4%BD%A0%E5%A5%BD%EF%BC%81%E6%88%91%E6%98%AFxxx%E5%85%88%E7%94%9F/%E5%B0%8F%E5%A7%90%EF%BC%81%E6%88%91%E6%83%B3%E5%84%AA%E5%85%88%E7%99%BB%E8%A8%98%E7%B4%A2%E5%8F%96%E3%80%8C%E6%9F%8F%E5%82%B2%E8%8E%8A%20The%20Pavilia%20Farm%E3%80%8D%20%E5%94%AE%E6%A8%93%E6%9B%B8%EF%BC%81" target="_blank" class="whatsapp-link">
+                            WhatsApp 聯繫我們
+                            </a>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-brand">
+                    <h3 class="footer-title">The Pavilia Farm</h3>
+                    <p class="footer-chinese">柏傲莊</p>
+                    <p class="footer-tagline">匠心築造 · 品味生活</p>
+                </div>
+                
+                <div class="footer-contact">
+                    <div class="footer-contact-item">
+                        <i class="fas fa-phone"></i>
+                        <span>9408 5969</span>
+                    </div>
+                    <div class="footer-contact-item">
+                        <i class="fab fa-whatsapp"></i>
+                          <a target="_blank" style ="color:#8b7355"  href="https://api.whatsapp.com/send?phone=85294085969&amp;text=%E4%BD%A0%E5%A5%BD%EF%BC%81%E6%88%91%E6%98%AFxxx%E5%85%88%E7%94%9F/%E5%B0%8F%E5%A7%90%EF%BC%81%E6%88%91%E6%83%B3%E5%84%AA%E5%85%88%E7%99%BB%E8%A8%98%E7%B4%A2%E5%8F%96%E3%80%8C%E6%9F%8F%E5%82%B2%E8%8E%8A%20The%20Pavilia%20Farm%E3%80%8D%20%E5%94%AE%E6%A8%93%E6%9B%B8%EF%BC%81" target="_blank" >
+                        <span>WhatsApp 查詢</span></a>
+                    </div>
+                </div>
+                
+                <p class="footer-copyright"> </p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Custom JavaScript -->
+    <script src="script.js"></script>
+</body>
+</html>
