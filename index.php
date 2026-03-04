@@ -311,11 +311,8 @@ In your html page, add the snippet and call gtag_report_conversion when someone 
                 </div>
 
                 <div class="footer-contact">
-                    <div class="footer-contact-item">
-                        <i class="fas fa-phone"></i>
-                        <span style="color: #8b7355;">9408 5969</span>
-                    </div>
-                    <div class="footer-contact-item">
+                 
+                    <div class="footer-contact-item" style="justify-content: center;">
                         <i class="fab fa-whatsapp"></i>
                         <a target="_blank" style="color:#8b7355"
                             href="https://api.whatsapp.com/send?phone=85294085969&amp;text=%E4%BD%A0%E5%A5%BD%EF%BC%81%E6%88%91%E6%98%AFxxx%E5%85%88%E7%94%9F/%E5%B0%8F%E5%A7%90%EF%BC%81%E6%88%91%E6%83%B3%E5%84%AA%E5%85%88%E7%99%BB%E8%A8%98%E7%B4%A2%E5%8F%96%E3%80%8C%E6%9F%8F%E5%82%B2%E8%8E%8A%20The%20Pavilia%20Farm%E3%80%8D%20%E5%94%AE%E6%A8%93%E6%9B%B8%EF%BC%81"
