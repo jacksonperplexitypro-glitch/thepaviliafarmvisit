@@ -284,7 +284,7 @@ In your html page, add the snippet and call gtag_report_conversion when someone 
                     <div class="contact-whatsapp">
                         <button class="btn btn-whatsapp-large" onclick="openWhatsApp()">
                             <i class="fab fa-whatsapp"></i>
-
+                            WhatsApp 聯繫我們
                         </button>
                     </div>
                 </div>
