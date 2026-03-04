@@ -1,8 +1,7 @@
 // 全局变量
 const contactInfo = {
-    phone: '23363198',
-    whatsapp: '+85298765432',
-    email: 'info@pavillafarm.hk'
+    phone: '94085969',
+    whatsapp: '+85294085969'
 };
 
 // DOM 加载完成后初始化
