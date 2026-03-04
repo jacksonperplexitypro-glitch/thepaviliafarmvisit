@@ -102,16 +102,21 @@ function gtag_report_conversion(url) {
                     <p class="hero-description">柏傲莊 III｜550間 馬年賀歲登場 <br><br>匠心築造地標豪宅，融合現代建築美學與自然生活哲學，打造香港頂級住宅新標準。</p>
                     
                     <div class="hero-actions">
+                         <a target="_blank"  href="https://api.whatsapp.com/send?phone=85294085969&amp;text=%E4%BD%A0%E5%A5%BD%EF%BC%81%E6%88%91%E6%98%AFxxx%E5%85%88%E7%94%9F/%E5%B0%8F%E5%A7%90%EF%BC%81%E6%88%91%E6%83%B3%E5%84%AA%E5%85%88%E7%99%BB%E8%A8%98%E7%B4%A2%E5%8F%96%E3%80%8C%E6%9F%8F%E5%82%B2%E8%8E%8A%20The%20Pavilia%20Farm%E3%80%8D%20%E5%94%AE%E6%A8%93%E6%9B%B8%EF%BC%81"> 
                         <button class="btn btn-large btn-primary"  >
-                              <a target="_blank"  href="https://api.whatsapp.com/send?phone=85294085969&amp;text=%E4%BD%A0%E5%A5%BD%EF%BC%81%E6%88%91%E6%98%AFxxx%E5%85%88%E7%94%9F/%E5%B0%8F%E5%A7%90%EF%BC%81%E6%88%91%E6%83%B3%E5%84%AA%E5%85%88%E7%99%BB%E8%A8%98%E7%B4%A2%E5%8F%96%E3%80%8C%E6%9F%8F%E5%82%B2%E8%8E%8A%20The%20Pavilia%20Farm%E3%80%8D%20%E5%94%AE%E6%A8%93%E6%9B%B8%EF%BC%81"> 
-                            查詢詳情</a>
+                              
+                            查詢詳情
                         </button>
+                    </a>
+
+                      <a target="_blank"  href="https://api.whatsapp.com/send?phone=85294085969&amp;text=%E4%BD%A0%E5%A5%BD%EF%BC%81%E6%88%91%E6%98%AFxxx%E5%85%88%E7%94%9F/%E5%B0%8F%E5%A7%90%EF%BC%81%E6%88%91%E6%83%B3%E5%84%AA%E5%85%88%E7%99%BB%E8%A8%98%E7%B4%A2%E5%8F%96%E3%80%8C%E6%9F%8F%E5%82%B2%E8%8E%8A%20The%20Pavilia%20Farm%E3%80%8D%20%E5%94%AE%E6%A8%93%E6%9B%B8%EF%BC%81"> 
                         <button class="btn btn-large btn-outline"   >
-                              <a target="_blank"  href="https://api.whatsapp.com/send?phone=85294085969&amp;text=%E4%BD%A0%E5%A5%BD%EF%BC%81%E6%88%91%E6%98%AFxxx%E5%85%88%E7%94%9F/%E5%B0%8F%E5%A7%90%EF%BC%81%E6%88%91%E6%83%B3%E5%84%AA%E5%85%88%E7%99%BB%E8%A8%98%E7%B4%A2%E5%8F%96%E3%80%8C%E6%9F%8F%E5%82%B2%E8%8E%8A%20The%20Pavilia%20Farm%E3%80%8D%20%E5%94%AE%E6%A8%93%E6%9B%B8%EF%BC%81"> 
+                             
                             預約參觀
-                            </a>
+                           
 
                         </button>
+</a>
                     </div>
                 </div>
             </div>
