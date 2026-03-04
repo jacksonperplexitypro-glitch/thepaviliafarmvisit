@@ -296,7 +296,7 @@ function gtag_report_conversion(url) {
                 <div class="footer-contact">
                     <div class="footer-contact-item">
                         <i class="fas fa-phone"></i>
-                        <span>9408 5969</span>
+                        <span style="color: #8b7355;">9408 5969</span>
                     </div>
                     <div class="footer-contact-item">
                         <i class="fab fa-whatsapp"></i>
