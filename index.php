@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>柏傲莊 The Pavilia Farm - 匠心築造地標豪宅</title>
     <meta name="description" content="柏傲莊 III｜550間 馬年賀歲登場。匠心築造地標豪宅，融合現代建築美學與自然生活哲學，打造香港頂級住宅新標準。">
-    
+   <meta property="og:image" content="./images/logo.png" />
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;500;600;700&family=Noto+Serif+SC:wght@400;500;600;700&display=swap" rel="stylesheet">
     
