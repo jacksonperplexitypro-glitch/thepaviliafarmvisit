@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="zh-HK">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>柏傲莊 The Pavilia Farm - 匠心築造地標豪宅</title>
+    <meta name="description" content="柏傲莊 III｜550間 馬年賀歲登場。匠心築造地標豪宅，融合現代建築美學與自然生活哲學，打造香港頂級住宅新標準。">
+    <meta property="og:image" content="./images/logo.png" />
+    <!-- Google Fonts -->
+    <link
+        href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;500;600;700&family=Noto+Serif+SC:wght@400;500;600;700&display=swap"
+        rel="stylesheet">
+
+    <!-- Font Awesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="styles.css">
+
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-17987421038"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'AW-17987421038');
+    </script>
+    <!-- Event snippet for 網頁瀏覽 conversion page
+In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. -->
+    <script>
+        function gtag_report_conversion(url) {
+            var callback = function () {
+                if (typeof (url) != 'undefined') {
+                    window.location = url;
+                }
+            };
+            gtag('event', 'conversion', {
+                'send_to': 'AW-17987421038/0VwHCJaTiYIcEO6GiYFD',
+                'value': 1.0,
+                'currency': 'HKD',
+                'event_callback': callback
+            });
+            return false;
+        }
+    </script>
+</head>
+
+<body>
+    <!-- Fixed Contact Buttons -->
+    <div class="fixed-contact">
+        <a href="tel:94085969" class="contact-btn phone-btn">
+            <i class="fas fa-phone"></i>
+            <span>9408 5969</span>
+        </a>
+        <a class="contact-btn whatsapp-btn" onclick="openWhatsApp()">
+            <i class="fab fa-whatsapp"></i>
+            <span>WhatsApp</span>
+        </a>
+    </div>
+
+    <!-- Header -->
+    <header class="header" id="header">
+        <div class="container">
+            <div class="nav-brand">
+                <h1 class="brand-title">The Pavilia Farm</h1>
+                <p class="brand-subtitle">柏傲莊</p>
+            </div>
+
+            <nav class="nav-menu" id="navMenu">
+                <a href="./" class="nav-link">首頁</a>
+                <a href="#gallery" class="nav-link">項目展示</a>
+                <a href="#brochure" class="nav-link">售樓說明書</a>
+                <a href="#pricelist" class="nav-link">價單</a>
+
+
+                <a href="#contact" class="nav-link">聯繫我們</a>
+            </nav>
+
+            <div class="nav-actions">
+                <button class="mobile-menu-toggle" id="mobileMenuToggle">
+                    <!--- <i class="fas fa-bars"></i>-->
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main>
+
+
+        <!-- Hero Section -->
+        <section id="hero" class="hero">
+            <div class="hero-background">
+                <img src="images/hero-bg.png" alt="柏傲莊室內設計" class="hero-image">
+                <div class="hero-overlay"></div>
+            </div>
+
+          <div class="container">
+                <div class="section-header">
+                    <h2 class="section-title"></h2>
+                    <p class="section-subtitle"></p>
+                </div>
+
+                <div class="brochure-content">
+                    <div class="brochure-card">
+
+                        <div class="brochure-info">
+                            <h3 class="brochure-title">柏傲莊售樓說明書</h3>
+                            <p class="brochure-description"></p>
+
+                            <a target="_blank" href="./book.pdf">
+                                <button class="btn btn-large btn-primary">
+
+                                    <i class="fas fa-download"></i>
+                                    下載售樓說明書
+
+
+                                </button>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-brand">
+                    <h3 class="footer-title">The Pavilia Farm</h3>
+                    <p class="footer-chinese">柏傲莊</p>
+                    <p class="footer-tagline">匠心築造 · 品味生活</p>
+                </div>
+
+                <div class="footer-contact">
+
+                    <div class="footer-contact-item" style="justify-content: center;" onclick="openWhatsApp()">
+                        <i class="fab fa-whatsapp"></i>
+
+                        <span>WhatsApp 查詢</span></a>
+                    </div>
+                </div>
+
+                <p class="footer-copyright"> </p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Custom JavaScript -->
+    <script src="script.js"></script>
+</body>
+
+</html>
