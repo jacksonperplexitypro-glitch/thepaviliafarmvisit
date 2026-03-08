@@ -227,3 +227,20 @@ document.addEventListener('visibilitychange', function() {
         document.body.style.animationPlayState = 'running';
     }
 });
+
+
+
+const navActions = document.getElementById('navActions');
+
+navActions.addEventListener('click', function (event) {
+ const navMenu = document.querySelector('#navMenu');
+ 
+
+const currentDisplay = window.getComputedStyle(navMenu).display;
+
+if (currentDisplay === 'none') {
+  navMenu.style.display = 'flex';
+}else{
+    navMenu.style.display = 'none';
+}
+});
