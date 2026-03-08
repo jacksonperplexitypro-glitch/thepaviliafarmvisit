@@ -70,18 +70,15 @@ In your html page, add the snippet and call gtag_report_conversion when someone 
             </div>
 
             <nav class="nav-menu" id="navMenu">
-                <a href="#hero" class="nav-link">首頁</a>
-                <a href="#gallery" class="nav-link">項目展示</a>
-                <a href="#brochure" class="nav-link">售樓說明書</a>
-                <a href="#pricelist" class="nav-link">價單</a>
-
-
-                <a href="#contact" class="nav-link">聯繫我們</a>
+                <a href="./" class="nav-link">首頁</a>
+                <a href="./book.html" class="nav-link">售樓說明書</a>
+                <a href="./price.html" class="nav-link">價單</a>
+                <a href="./contact.html" class="nav-link">聯繫我們</a> 
             </nav>
 
-            <div class="nav-actions">
+            <div class="nav-actions" id ="navActions">
                 <button class="mobile-menu-toggle" id="mobileMenuToggle">
-                    <!--- <i class="fas fa-bars"></i>-->
+                    <i class="fas fa-bars"></i> 
                 </button>
             </div>
         </div>
