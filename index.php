@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>柏傲莊 The Pavilia Farm - 匠心築造地標豪宅</title>
     <meta name="description" content="柏傲莊 III｜550間 馬年賀歲登場。匠心築造地標豪宅，融合現代建築美學與自然生活哲學，打造香港頂級住宅新標準。">
-    <meta property="og:image" content="./images/logo.png" />
+    <meta property="og:image" content="./images/logo.avif" />
     <!-- Google Fonts -->
     <link
         href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;500;600;700&family=Noto+Serif+SC:wght@400;500;600;700&display=swap"
@@ -91,7 +91,7 @@ In your html page, add the snippet and call gtag_report_conversion when someone 
         <!-- Hero Section -->
         <section id="hero" class="hero">
             <div class="hero-background">
-                <img src="images/hero-bg.png" alt="柏傲莊室內設計" class="hero-image">
+                <img src="images/hero-bg.avif" alt="柏傲莊室內設計" class="hero-image">
                 <div class="hero-overlay"></div>
             </div>
 
@@ -158,7 +158,7 @@ In your html page, add the snippet and call gtag_report_conversion when someone 
 
                 <div class="gallery-grid">
                     <div class="gallery-item">
-                        <img src="images/1.jpg" alt="無邊際泳池" class="gallery-image">
+                        <img src="images/1.avif" alt="無邊際泳池" class="gallery-image">
                         <div class="gallery-overlay">
                             <h3 class="gallery-title"></h3>
                             <p class="gallery-description"></p>
@@ -166,7 +166,7 @@ In your html page, add the snippet and call gtag_report_conversion when someone 
                     </div>
 
                     <div class="gallery-item">
-                        <img src="images/2.png" alt="建築外觀" class="gallery-image">
+                        <img src="images/2.avif" alt="建築外觀" class="gallery-image">
                         <div class="gallery-overlay">
                             <h3 class="gallery-title"></h3>
                             <p class="gallery-description"></p>
@@ -174,7 +174,7 @@ In your html page, add the snippet and call gtag_report_conversion when someone 
                     </div>
 
                     <div class="gallery-item">
-                        <img src="images/3.jpg" alt="泳池設施" class="gallery-image">
+                        <img src="images/3.avif" alt="泳池設施" class="gallery-image">
                         <div class="gallery-overlay">
                             <h3 class="gallery-title"></h3>
                             <p class="gallery-description"></p>
@@ -182,7 +182,7 @@ In your html page, add the snippet and call gtag_report_conversion when someone 
                     </div>
 
                     <div class="gallery-item">
-                        <img src="images/4.jpg" alt="戶外泳池" class="gallery-image">
+                        <img src="images/4.avif" alt="戶外泳池" class="gallery-image">
                         <div class="gallery-overlay">
                             <h3 class="gallery-title"></h3>
                             <p class="gallery-description"></p>
@@ -190,7 +190,7 @@ In your html page, add the snippet and call gtag_report_conversion when someone 
                     </div>
 
                     <div class="gallery-item">
-                        <img src="images/5.jpg" alt="泳池景觀" class="gallery-image">
+                        <img src="images/5.avif" alt="泳池景觀" class="gallery-image">
                         <div class="gallery-overlay">
                             <h3 class="gallery-title"></h3>
                             <p class="gallery-description"></p>
@@ -198,7 +198,7 @@ In your html page, add the snippet and call gtag_report_conversion when someone 
                     </div>
 
                     <div class="gallery-item">
-                        <img src="images/6.png" alt="健身中心" class="gallery-image">
+                        <img src="images/6.avif" alt="健身中心" class="gallery-image">
                         <div class="gallery-overlay">
                             <h3 class="gallery-title"></h3>
                             <p class="gallery-description"></p>
