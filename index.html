@@ -152,7 +152,7 @@ In your html page, add the snippet and call gtag_report_conversion when someone 
         <section id="gallery" class="gallery">
             <div class="container">
                 <div class="section-header">
-                    <h2 class="section-title">項目展示</h2>
+                    <h2 class="section-title">圖集</h2>
                     <p class="section-subtitle"></p>
                 </div>
 
