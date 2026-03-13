@@ -55,7 +55,7 @@ In your html page, add the snippet and call gtag_report_conversion when someone 
             <i class="fas fa-phone"></i>
             <span>9408 5969</span>
         </a>
-        <a class="contact-btn whatsapp-btn" onclick="openWhatsApp()">
+        <a class="contact-btn whatsapp-btn" href="https://api.whatsapp.com/send?phone=85294085969&text=你好！我是xxx先生/小姐！我想預約參觀「柏傲莊 The Pavilia Farm」！" target="_blank">
             <i class="fab fa-whatsapp"></i>
             <span>WhatsApp</span>
         </a>
@@ -103,12 +103,13 @@ In your html page, add the snippet and call gtag_report_conversion when someone 
                     <p class="hero-description">本網站非發展商官方網站，僅提供資訊參考<br>柏傲莊 III｜550間 馬年賀歲登場 <br><br>匠心築造地標豪宅，融合現代建築美學與自然生活哲學，打造香港頂級住宅新標準。</p>
 
                     <div class="hero-actions">
-
-                        <button class="btn btn-large btn-primary" onclick="openWhatsApp()">
-
+ <a href="                        
+https://api.whatsapp.com/send?phone=85294085969&text=%E4%BD%A0%E5%A5%BD%EF%BC%81%E6%88%91%E6%98%AFxxx%E5%85%88%E7%94%9F/%E5%B0%8F%E5%A7%90%EF%BC%81%E6%88%91%E6%83%B3%E9%A0%90%E7%B4%84%E5%8F%83%E8%A7%80%E3%80%8C%E6%9F%8F%E5%82%B2%E8%8E%8A%20The%20Pavilia%20Farm%E3%80%8D%20%EF%BC%81" target="_blank"> 
+                        <button class="btn btn-large btn-primary"  >
+                       
                             查詢詳情
                         </button>
-
+ </a>
 
 
                        
@@ -127,7 +128,7 @@ In your html page, add the snippet and call gtag_report_conversion when someone 
         <section id="gallery" class="gallery">
             <div class="container">
                 <div class="section-header">
-                    <h2 class="section-title">圖集</h2>
+                    <h2 class="section-title"> </h2>
                     <p class="section-subtitle"></p>
                 </div>
 
@@ -193,14 +194,16 @@ In your html page, add the snippet and call gtag_report_conversion when someone 
                 <div class="footer-brand">
                     <p class="footer-tagline">免責聲明：
 本網頁並不是發展項目之官方網站網頁。本廣告內的圖片與發展商的樓盤並無任何關係。準買家如欲了解發展項目詳情，請參閱售樓說明書。資料有可能出現售價、現金或其他條件上的改動，或撤回而不經提前通知，並可能受特別條款約束。本宣傳旨在提供更多一手新盤資料及圖片檔案服務只供閱覽；不聲明或保證所提供訊息的準確性和完整性。在撰寫本廣告時，雖已作出合理和謹慎的考慮，對資料的完整和準確性恕不保證、明示或暗示絕對無誤。因使用此資料而直接或間接引致的損失或損毀。本網站恕不負責。本網站內所有內容包括一手新盤資料，僅供參考和借鑒，物業資料，一切以發展商最新公布為準。本頁面所提到房屋面積如無特別標示，均指實用面積。客戶應自行確保資料或，內容的完整性和準確性。所載資料僅供參考，並不構成要約或合約一部份。如有需要，客戶應自行咨詢相關法律及/或專業意見。</p>
+                
+<p>本廣告/宣傳資料內載列的相片、圖像、繪圖或素描顯示純屬畫家對有關發展項目之想像。有關相片、圖像、繪圖或素描並非按照比例繪畫及/或可能經過電腦修飾處理。準買家如欲了解發展項目的詳情，請參閱售樓說明書。賣方亦建議準買家到有關發展地盤作實地考察，以對該發展地盤、其周邊地區環境及附近的公共設施有較佳了解。</p>
                 </div>
 
                 <div class="footer-contact">
 
-                    <div class="footer-contact-item" style="justify-content: center;" onclick="openWhatsApp()">
-                        <i class="fab fa-whatsapp"></i>
+                    <div class="footer-contact-item" style="justify-content: center; ">
+                     
 
-                        <span>WhatsApp 查詢</span></a>
+                        <span>Enquiries 查詢：(852) 9408 5969</span></a>
                     </div>
                 </div>
 

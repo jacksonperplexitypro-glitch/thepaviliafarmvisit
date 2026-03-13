@@ -158,13 +158,7 @@ function makeCall() {
     window.open(`tel:${contactInfo.phone}`, '_self');
 }
 
-// 打开 WhatsApp
-function openWhatsApp() {
-    const whatsappNumber = contactInfo.whatsapp.replace(/[^0-9]/g, '');
-    const message = encodeURIComponent('您好，我對柏傲莊項目感興趣，希望了解更多詳情。');
-    window.open(`https://wa.me/${whatsappNumber}?text=${message}`, '_blank');
-}
-
+ 
  
 
  
