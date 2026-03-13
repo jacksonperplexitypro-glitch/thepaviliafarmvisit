@@ -123,27 +123,7 @@ In your html page, add the snippet and call gtag_report_conversion when someone 
         </section>
         <!-- Gallery Section -->
 
-        <section id="brochure" class="brochure">
-            <div class="container">
-                <div class="section-header">
-                    <h2 class="section-title"></h2>
-                    <p class="section-subtitle"></p>
-                </div>
-
-                <div class="brochure-content">
-                    <div class="brochure-card">
-
-                        <div class="brochure-info">
-                            <h3 class="brochure-title"></h3>
-                            <p class="brochure-description">柏傲莊 位於新界
-                                大圍車公廟路18號，於2022年9月開始落成，屋苑分為2期，由10座樓宇組成，共有2,198個單位。屋苑內設有會所、泳池、兒童設施、運動設施、娛樂設施、餐飲設施、美容/保健、休閒區、基座商場，交通便利，步行至港鐵時間約1分鐘。附近設有翠田街室外停車場；周邊民生設施完善，1分鐘到達圍方；5分鐘到達大圍遊樂場；區內亦設有Tesla
-                                汽車充電站及聯邦動物診所。另外，小學校網在88區，中學校區在沙田。</p>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
+      
         <section id="gallery" class="gallery">
             <div class="container">
                 <div class="section-header">
