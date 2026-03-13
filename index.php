@@ -111,12 +111,7 @@ In your html page, add the snippet and call gtag_report_conversion when someone 
 
 
 
-                        <button class="btn btn-large btn-outline" onclick="openWhatsApp()">
-
-                            預約參觀
-
-
-                        </button>
+                       
 
                     </div>
                 </div>
