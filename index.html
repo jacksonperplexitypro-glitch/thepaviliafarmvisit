@@ -19,33 +19,7 @@
     <link rel="stylesheet" href="styles.css">
    <link rel="stylesheet" href="css2.css">
 
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-17987421038"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag() { dataLayer.push(arguments); }
-        gtag('js', new Date());
-
-        gtag('config', 'AW-17987421038');
-    </script>
-    <!-- Event snippet for 網頁瀏覽 conversion page
-In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. -->
-    <script>
-        function gtag_report_conversion(url) {
-            var callback = function () {
-                if (typeof (url) != 'undefined') {
-                    window.location = url;
-                }
-            };
-            gtag('event', 'conversion', {
-                'send_to': 'AW-17987421038/0VwHCJaTiYIcEO6GiYFD',
-                'value': 1.0,
-                'currency': 'HKD',
-                'event_callback': callback
-            });
-            return false;
-        }
-    </script>
+  
 </head>
 
 <body>
