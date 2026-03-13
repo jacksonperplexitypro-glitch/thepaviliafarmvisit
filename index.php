@@ -100,7 +100,7 @@ In your html page, add the snippet and call gtag_report_conversion when someone 
                     <h1 class="hero-title">The Pavilia Farm</h1>
                     <h2 class="hero-chinese">柏傲莊</h2>
                     <p class="hero-subtitle">The Pavilia Farm III • 柏傲莊 III</p>
-                    <p class="hero-description">柏傲莊 III｜550間 馬年賀歲登場 <br><br>匠心築造地標豪宅，融合現代建築美學與自然生活哲學，打造香港頂級住宅新標準。</p>
+                    <p class="hero-description">本網站非發展商官方網站，僅提供資訊參考<br>柏傲莊 III｜550間 馬年賀歲登場 <br><br>匠心築造地標豪宅，融合現代建築美學與自然生活哲學，打造香港頂級住宅新標準。</p>
 
                     <div class="hero-actions">
 
