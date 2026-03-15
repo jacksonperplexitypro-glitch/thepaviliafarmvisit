@@ -4,8 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>柏傲莊 The Pavilia Farm - 匠心築造地標豪宅</title>
-    <meta name="description" content="柏傲莊 III｜550間 馬年賀歲登場。匠心築造地標豪宅，融合現代建築美學與自然生活哲學，打造香港頂級住宅新標準。">
+    <title>柏傲莊 The Pavilia Farm - 匠心築造地標</title>
+    <meta name="description" content="">
     <meta property="og:image" content="./images/logo.avif" />
     <!-- Google Fonts -->
     <!-- <link
@@ -83,7 +83,7 @@
         <!-- Hero Section -->
         <section id="hero" class="hero">
             <div class="hero-background">
-                <img src="images/hero-bg.avif" alt="柏傲莊室內設計" class="hero-image">
+                <img src="images/hero-bg.avif" alt="" class="hero-image">
                 <div class="hero-overlay"></div>
             </div>
 
@@ -92,7 +92,7 @@
                     <h1 class="hero-title">The Pavilia Farm</h1>
                     <h2 class="hero-chinese">柏傲莊</h2>
                     <p class="hero-subtitle">The Pavilia Farm III • 柏傲莊 III</p>
-                    <p class="hero-description">本網站非發展商官方網站，僅提供資訊參考<br>柏傲莊 III｜550間 馬年賀歲登場 <br><br>匠心築造地標豪宅，融合現代建築美學與自然生活哲學，打造香港頂級住宅新標準。</p>
+                    <p class="hero-description">本網站非發展商官方網站，僅提供資訊參考<br>柏傲莊 III｜550間 馬年賀歲登場 <br></p>
 
                     <div class="hero-actions">
  <a href="                        
@@ -126,7 +126,7 @@ https://api.whatsapp.com/send?phone=85294085969&text=%E4%BD%A0%E5%A5%BD%EF%BC%81
 
                 <div class="gallery-grid">
                     <div class="gallery-item">
-                        <img src="images/1.avif" alt="無邊際泳池" class="gallery-image">
+                        <img src="images/1.avif" alt="" class="gallery-image">
                         <div class="gallery-overlay">
                             <h3 class="gallery-title"></h3>
                             <p class="gallery-description"></p>
@@ -134,7 +134,7 @@ https://api.whatsapp.com/send?phone=85294085969&text=%E4%BD%A0%E5%A5%BD%EF%BC%81
                     </div>
 
                     <div class="gallery-item">
-                        <img src="images/2.avif" alt="建築外觀" class="gallery-image">
+                        <img src="images/2.avif" alt="" class="gallery-image">
                         <div class="gallery-overlay">
                             <h3 class="gallery-title"></h3>
                             <p class="gallery-description"></p>
@@ -142,7 +142,7 @@ https://api.whatsapp.com/send?phone=85294085969&text=%E4%BD%A0%E5%A5%BD%EF%BC%81
                     </div>
 
                     <div class="gallery-item">
-                        <img src="images/3.avif" alt="泳池設施" class="gallery-image">
+                        <img src="images/3.avif" alt="" class="gallery-image">
                         <div class="gallery-overlay">
                             <h3 class="gallery-title"></h3>
                             <p class="gallery-description"></p>
@@ -150,7 +150,7 @@ https://api.whatsapp.com/send?phone=85294085969&text=%E4%BD%A0%E5%A5%BD%EF%BC%81
                     </div>
 
                     <div class="gallery-item">
-                        <img src="images/4.avif" alt="戶外泳池" class="gallery-image">
+                        <img src="images/4.avif" alt="" class="gallery-image">
                         <div class="gallery-overlay">
                             <h3 class="gallery-title"></h3>
                             <p class="gallery-description"></p>
@@ -158,7 +158,7 @@ https://api.whatsapp.com/send?phone=85294085969&text=%E4%BD%A0%E5%A5%BD%EF%BC%81
                     </div>
 
                     <div class="gallery-item">
-                        <img src="images/5.avif" alt="泳池景觀" class="gallery-image">
+                        <img src="images/5.avif" alt="" class="gallery-image">
                         <div class="gallery-overlay">
                             <h3 class="gallery-title"></h3>
                             <p class="gallery-description"></p>
@@ -166,7 +166,7 @@ https://api.whatsapp.com/send?phone=85294085969&text=%E4%BD%A0%E5%A5%BD%EF%BC%81
                     </div>
 
                     <div class="gallery-item">
-                        <img src="images/6.avif" alt="健身中心" class="gallery-image">
+                        <img src="images/6.avif" alt="" class="gallery-image">
                         <div class="gallery-overlay">
                             <h3 class="gallery-title"></h3>
                             <p class="gallery-description"></p>
